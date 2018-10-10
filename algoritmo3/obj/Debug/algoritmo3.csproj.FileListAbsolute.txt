@@ -1,0 +1,8 @@
+C:\Users\etec\Desktop\algoritmo3\algoritmo3\bin\Debug\algoritmo3.exe.config
+C:\Users\etec\Desktop\algoritmo3\algoritmo3\bin\Debug\algoritmo3.exe
+C:\Users\etec\Desktop\algoritmo3\algoritmo3\bin\Debug\algoritmo3.pdb
+C:\Users\etec\Desktop\algoritmo3\algoritmo3\obj\Debug\algoritmo3.exe
+C:\Users\etec\Desktop\algoritmo3\algoritmo3\obj\Debug\algoritmo3.pdb
+C:\Users\etec\Desktop\exercicio1\algoritmo3\bin\Debug\algoritmo3.exe.config
+C:\Users\etec\Desktop\exercicio1\algoritmo3\obj\Debug\algoritmo3.exe
+C:\Users\etec\Desktop\exercicio1\algoritmo3\obj\Debug\algoritmo3.pdb
